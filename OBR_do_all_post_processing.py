@@ -1,4 +1,4 @@
-#    "OBR_do_all" (v1.0)
+#    "OBR_do_all_post_processing" (v1.0)
 #    Copyright 2016 Soren Heinze
 #    soerenheinze <at> gmx <dot> de
 #    5B1C 1897 560A EF50 F1EB 2579 2297 FAE4 D9B5 2A35
