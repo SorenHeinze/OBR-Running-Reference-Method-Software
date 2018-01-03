@@ -20,3 +20,6 @@ i) and ii) are auto-clickers that are more or less useful just in connection wit
 => "(semi) automatic" means that some input is required for these programs to work.
 
 The python source-files for OBR_Noise_reducer, OBR_Filesorter, OBR_add_up_data and OBR_do_all should be the same as in the parent folder.
+
+## Usage
+foo
