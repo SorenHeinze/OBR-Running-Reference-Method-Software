@@ -25,5 +25,3 @@ The python source-files for OBR_Noise_reducer, OBR_Filesorter, OBR_add_up_data a
 Put all .py-files into one folder and simply run the programs in a command line window. Remember, that python 2.7 was used to write the software.
 
 For less experienced users detailed step-by-step instruction how to use each program under windows-OS are provided.
-
-
