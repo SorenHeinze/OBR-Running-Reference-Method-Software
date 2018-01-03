@@ -8,8 +8,6 @@ i) the (semi) automatic measurements
 ii) the (semi) automatic strain analysis of the raw data, yielding the strain-data-files.
 iii) post-analysis, yielding the (automatic) noise reduced strain-data files.
 
-Each program folder contains a separate step-by-step instruction how to use the program under a windows operating system.
-
 The programs are written in Python 2.7 and a detailed instruction how to install python and the necessary modules can be found in the repository.
 
 The software is NOT meant to be installed but rather to be run from a command line.
@@ -22,4 +20,8 @@ i) and ii) are auto-clickers that are more or less useful just in connection wit
 The python source-files for OBR_Noise_reducer, OBR_Filesorter, OBR_add_up_data and OBR_do_all should be the same as in the parent folder.
 
 ## Usage
-foo
+Put all .py-files into one folder and simply run the programs in a command line window. Remember, that python 2.7 was used to write the software.
+
+For less experienced users detailed step-by-step instruction how to use each program under window can be found in the repository.
+
+
