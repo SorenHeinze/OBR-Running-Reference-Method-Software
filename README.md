@@ -1,4 +1,6 @@
 # OBR-Running-Reference-Method-Software
+
+## Description
 Software used in a research project using an  Optical Backscatter Reflectometer (OBR) to obtain strain data of curing epoxy
 
 This software is meant for re-use in similar projects. Hence, it is not written for more general purpose.
